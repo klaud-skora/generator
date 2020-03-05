@@ -1,0 +1,9 @@
+{
+  "name": "@klaudek/randomid-generator",
+  "version": "1.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "Klaudia Skóra",
+  "contributors": "Kodilla team",
+  "keywords": "npm kodilla generator id"
+}
